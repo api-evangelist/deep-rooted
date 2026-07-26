@@ -1,7 +1,26 @@
 aid: deep-rooted
 name: Deep Rooted
-description: 'Deep Rooted is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Deep Rooted.Co is a direct-to-consumer fresh produce brand operated by Clover
+  Ventures Pvt. Ltd, a Bengaluru-based agritech company founded in 2018 that launched the
+  Deep Rooted consumer brand in 2020. The company works with a network of small-scale farmers
+  using greenhouse and hydroponic techniques within roughly 150km of Bengaluru and Hyderabad,
+  providing agronomy support from seed to harvest and delivering fruits, vegetables, Indian
+  staples and greens, exotic produce and an easy-cook range direct to households the morning
+  after ordering. Deep Rooted is backed by Accel. It sells through a consumer web storefront
+  and mobile apps; it publishes no public developer portal, API documentation, or machine-readable
+  API specification, so this profile captures company identity and web properties only.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://deep-rooted.co/static/logo-fe5d81c2fea6b390064870ca18601c8d.png
 url: https://raw.githubusercontent.com/api-evangelist/deep-rooted/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +30,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Consumer
+- Agriculture
+- AgTech
+- Food and Beverage
+- Grocery
+- E-Commerce
+- Direct to Consumer
+- Supply Chain
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +50,35 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.clover.ag/
+  url: https://deep-rooted.co/
+- type: About
+  url: https://deep-rooted.co/about-us
+- type: Blog
+  url: https://deep-rooted.co/blog
+- type: FAQ
+  url: https://deep-rooted.co/faq
+- type: Support
+  url: mailto:talktous@deep-rooted.co
+- type: SignUp
+  url: https://deep-rooted.co/shop-sub/index
+- type: TermsOfService
+  url: https://deep-rooted.co/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://deep-rooted.co/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/cloverventures
+- type: Twitter
+  url: https://twitter.com/cloverventures
+- type: Facebook
+  url: https://www.facebook.com/deeprooted.co
+- type: Sitemap
+  url: https://deep-rooted.co/sitemap.xml
+- type: LLMsTxt
+  url: llms/deep-rooted-llms.txt
+- type: DomainSecurity
+  url: security/deep-rooted-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

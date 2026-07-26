@@ -1,0 +1,54 @@
+# Deep Rooted.Co
+
+> Deep Rooted.Co is a direct-to-consumer fresh produce brand operated by Clover Ventures
+> Pvt. Ltd (Bengaluru, India). Founded as Clover Ventures in 2018, the Deep Rooted consumer
+> brand launched in 2020. The company partners with small-scale farmers using greenhouse
+> and hydroponic techniques within roughly 150km of Bengaluru and Hyderabad, provides
+> agronomy support from seed to harvest, and delivers fruits, vegetables, Indian staples
+> and greens, exotic produce, and an easy-cook range next-day to households in Bengaluru
+> and Hyderabad. Backed by Accel.
+
+Deep Rooted publishes NO public API, developer portal, API documentation, SDKs, or
+machine-readable API specification. Its consumer storefront is a web/mobile ordering
+experience. Do not assume or construct API endpoints for this company. As of 2026-07-20
+probes of https://deep-rooted.co returned 404 for /llms.txt, /openapi.json, /swagger.json,
+/api, and for every /.well-known/ discovery document.
+
+## Company
+
+- [Home](https://deep-rooted.co/): Brand home and product ranges.
+- [About Us](https://deep-rooted.co/about-us): Founding story, founders, farming model.
+- [Why Deep Rooted](https://deep-rooted.co/why-deep-rooted): Fresh, clean, community, vision.
+- [How We Grow (Seed to Home)](https://deep-rooted.co/seed-to-home): Growing practices.
+- [Harvest To Home](https://deep-rooted.co/harvest-to-home): Supply chain and delivery model.
+- [Farmer Testimonials](https://deep-rooted.co/farmer-testimonials): Farmer network voices.
+- [Customer Love](https://deep-rooted.co/customer-love): Customer testimonials.
+
+## Commerce
+
+- [Shop](https://deep-rooted.co/shop-sub/index): Consumer ordering storefront.
+- [FAQ](https://deep-rooted.co/faq): Ordering, delivery, and account questions.
+- [Contact](mailto:talktous@deep-rooted.co): Customer support email.
+
+## Content
+
+- [Healthy Living Blog](https://deep-rooted.co/blog): Nutrition and healthy-eating posts.
+- [Recipes](https://deep-rooted.co/recipes): Recipes using Deep Rooted produce.
+
+## Legal
+
+- [Terms and Conditions](https://deep-rooted.co/terms-and-conditions)
+- [Privacy Policy](https://deep-rooted.co/privacy-policy)
+
+## Elsewhere
+
+- [GitHub (Clover Ventures Pvt. Ltd)](https://github.com/cloverventures): Corporate account, no public repositories as of 2026-07-20.
+- [Twitter/X](https://twitter.com/cloverventures)
+- [Facebook](https://www.facebook.com/deeprooted.co)
+- [Sitemap](https://deep-rooted.co/sitemap.xml)
+
+## Notes
+
+- The domain clover.ag, previously recorded as this company's website, is as of 2026-07-20
+  a parked domain listed for sale (Afternic/GoDaddy). The live property is deep-rooted.co.
+- The domain deeprooted.co returns a Cloudflare 530 / error 1016 (origin DNS failure).

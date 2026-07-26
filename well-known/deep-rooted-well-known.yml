@@ -1,0 +1,34 @@
+generated: '2026-07-20'
+method: probed
+source: https://deep-rooted.co
+host: https://deep-rooted.co
+summary:
+  found: 0
+  probed: 5
+  note: No /.well-known/ discovery documents are published on the Deep Rooted web host.
+    Recorded as an honest negative result; no WellKnown or SecurityTxt pointer is wired
+    in apis.yml because nothing is present.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+other_probes:
+- path: /llms.txt
+  status: 404
+- path: /openapi.json
+  status: 404
+- path: /swagger.json
+  status: 404
+- path: /api
+  status: 404
+- path: /robots.txt
+  status: 200
+- path: /sitemap.xml
+  status: 200
