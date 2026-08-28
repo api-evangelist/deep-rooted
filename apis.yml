@@ -9,6 +9,17 @@ description: 'Deep Rooted.Co is a direct-to-consumer fresh produce brand operate
   after ordering. Deep Rooted is backed by Accel. It sells through a consumer web storefront
   and mobile apps; it publishes no public developer portal, API documentation, or machine-readable
   API specification, so this profile captures company identity and web properties only.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
